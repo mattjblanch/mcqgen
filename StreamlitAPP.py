@@ -60,10 +60,6 @@ with st.form("user_inputs"):
             st.error(str(e))
 
         else:
-            print(f"Total tokens:{cb.total_tokens}")
-            print(f"Prompt Tokens:{cb.prompt_tokens}")
-            print(f"Completion Tokens:{cb.completion_tokens}")
-            print(f"Total Cost:{cb.total_cost}")
             if isinstance(response, dict):
                 # Extract the quiz data from the response
                 quiz=response.get("quiz")
@@ -79,6 +75,13 @@ with st.form("user_inputs"):
                         st.table(df)
                         # Display the review in a text box as well
                         st.text_area(label="Review", value=response["review"])
+                        st.text_area(
+                            label="Cost",
+                            value=f"""Total cost is USD${cb.total_cost} 
+                                     Total tokens is {cb.total_tokens}  
+                                     Prompt tokens is {cb.prompt_tokens}
+                                     Completion tokens is {cb.completion_tokens}"""
+                                     )
                         
                         # Save the quiz data to a csv file
                         quiz=pd.DataFrame(table_data, columns=["Question Number", "Question", "Options", "Correct Answer"])
