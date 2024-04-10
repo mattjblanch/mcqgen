@@ -26,7 +26,7 @@ You are an expert Multiple Choice Question writer.
 You have been asked to write a multiple choice question based on the {text} and {subject}. 
 The question should be challenging and test the reader's understanding of the text. 
 The questions should not be repeated, and correct answer should be checked with question.
-The question should have {number} answer choices, with one correct answer and three distractors. 
+The question should have Four answer choices, with one correct answer and three distractors. 
 The question should be multiple choice and have only one correct answer. 
 The question should be clear and concise. 
 The question should be in {tone} tone.
