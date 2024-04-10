@@ -1,8 +1,320 @@
-Page: Cannabis (drug)
-Summary: Cannabis, also known as marijuana or weed among other names, is a psychoactive drug from the cannabis plant. Native to Central or South Asia, the cannabis plant has been used as a drug for both recreational and entheogenic purposes and in various traditional medicines for centuries. Tetrahydrocannabinol (THC) is the main psychoactive component of cannabis, which is one of the 483 known compounds in the plant, including at least 65 other cannabinoids, such as cannabidiol (CBD). Cannabis can be used by smoking, vaporizing, within food, or as an extract.
-Cannabis has various mental and physical effects, which include euphoria, altered states of mind and sense of time, difficulty concentrating, impaired short-term memory, impaired body movement (balance and fine psychomotor control), relaxation, and an increase in appetite. Onset of effects is felt within minutes when smoked, but may take up to 90 minutes when eaten (as orally consumed drugs must be metabolized). The effects last for two to six hours, depending on the amount used. At high doses, mental effects can include anxiety, delusions (including ideas of reference), hallucinations, panic, paranoia, and psychosis. There is a strong relation between cannabis use and the risk of psychosis, though the direction of causality is debated. Physical effects include increased heart rate, difficulty breathing, nausea, and behavioral problems in children whose mothers used cannabis during pregnancy; short-term side effects may also include dry mouth and red eyes. Long-term adverse effects may include addiction, decreased mental ability in those who started regular use as adolescents, chronic coughing, susceptibility to respiratory infections, and cannabinoid hyperemesis syndrome.
-Cannabis is mostly used recreationally or as a medicinal drug, although it may also be used for spiritual purposes. In 2013, between 128 and 232 million people used cannabis (2.7% to 4.9% of the global population between the ages of 15 and 65). It is the most commonly used largely-illegal drug in the world, with the highest use among adults in Zambia, the United States, Canada, and Nigeria. Since the 1970s, the potency of illicit cannabis has increased, with THC levels rising and CBD levels dropping.
-Cannabis plants have been grown since at least the 3rd millennium BCE and there is evidence of it being smoked for its psychoactive effects around 500 BCE in the Pamir Mountains, Central Asia. Since the 14th century, cannabis has been subject to legal restrictions. The possession, use, and cultivation of cannabis has been illegal in most countries since the 20th century. In 2013, Uruguay became the first country to legalize recreational use of cannabis. Other countries to do so are Canada, Georgia, Germany, Luxembourg, Malta, Mexico, South Africa, and Thailand. In the U.S., the recreational use of cannabis is legalized in 24 states, 3 territories, and the District of Columbia, though the drug remains federally illegal. In Australia, it is legalized only in the Australian Capital Territory.
+The seeds of the cacao tree have an intense bitter taste and must be fermented to develop the flavor. After fermentation, the seeds are dried, cleaned, and roasted. The shell is removed to produce cocoa nibs, which are then ground to cocoa mass, unadulterated chocolate in rough form. Once the cocoa mass is liquefied by heating, it is called chocolate liquor. The liquor may also be cooled and processed into its two components: cocoa solids and cocoa butter. Baking chocolate, also called bitter chocolate, contains cocoa solids and cocoa butter in varying proportions without any added sugar. Powdered baking cocoa, which contains more fiber than cocoa butter, can be processed with alkali to produce Dutch cocoa. Much of the chocolate consumed today is in the form of sweet chocolate, a combination of cocoa solids, cocoa butter, or added vegetable oils and sugar. Milk chocolate is sweet chocolate that additionally contains milk powder or condensed milk. White chocolate contains cocoa butter, sugar, and milk, but no cocoa solids.
 
-Page: Legality of cannabis
-Summary: The legality of cannabis for medical and recreational use varies by country, in terms of its possession, distribution, and cultivation, and (in regards to medical) how it can be consumed and what medical conditions it can be used for. These policies in most countries are regulated by three United Nations treaties: the 1961 Single Convention on Narcotic Drugs, the 1971 Convention on Psychotropic Substances, and the 1988 Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances. Since its descheduling in 2020, cannabis is classified as a Schedule I drug under the Single Convention treaty, meaning that signatories can allow medical use but that it is considered to be an addictive drug with a serious risk of abuse.The use of cannabis for recreational purposes is prohibited in most countries; however, many have adopted a policy of decriminalizat
+Chocolate is one of the most popular food types and flavors in the world, and many foodstuffs involving chocolate exist, particularly desserts, including cakes, pudding, mousse, chocolate brownies, and chocolate chip cookies. Many candies are filled with or coated with sweetened chocolate. Chocolate bars, either made of solid chocolate or other ingredients coated in chocolate, are eaten as snacks. Gifts of chocolate molded into different shapes (such as eggs, hearts, and coins) are traditional on certain Western holidays, including Christmas, Easter, Valentine's Day, and Hanukkah. Chocolate is also used in cold and hot beverages, such as chocolate milk and hot chocolate, and in some alcoholic drinks, such as creme de cacao.
+
+Although cocoa originated in the Americas, West African countries, particularly Côte d'Ivoire and Ghana, are the leading producers of cocoa in the 21st century, accounting for some 60% of the world cocoa supply.
+
+With some two million children involved in the farming of cocoa in West Africa, child slavery and trafficking associated with the cocoa trade remain major concerns.[3][4] A 2018 report argued that international attempts to improve conditions for children were doomed to failure because of persistent poverty, the absence of schools, increasing world cocoa demand, more intensive farming of cocoa, and continued exploitation of child labor.[3]
+
+Etymology
+
+Maya glyph for cocoa
+Cocoa, pronounced by the Olmecs as kakawa,[5] dates to 1000 BC or earlier.[5] The word "chocolate" entered the English language from Spanish in about 1600.[6] The word entered Spanish from the word chocolātl in Nahuatl, the language of the Aztecs. The origin of the Nahuatl word is uncertain, as it does not appear in any early Nahuatl source, where the word for chocolate drink is cacahuatl, "cocoa water". It is possible that the Spaniards coined the word (perhaps in order to avoid caca, a vulgar Spanish word for "faeces") by combining the Yucatec Mayan word chocol, "hot", with the Nahuatl word atl, "water".[7] A widely cited proposal is that the derives from unattested xocolatl meaning "bitter drink" is unsupported; the change from x- to ch- is unexplained, as is the -l-. Another proposed etymology derives it from the word chicolatl, meaning "beaten drink", which may derive from the word for the frothing stick, chicoli.[8] Other scholars reject all these proposals, considering the origin of first element of the name to be unknown.[9] The term "chocolatier", for a chocolate confection maker, is attested from 1888.[10]
+
+History
+See also: History of chocolate
+South America
+The cocoa bean was first domesticated at least 5,300 years ago, in equatorial South America from the Santa Ana-La Florida (SALF) site in what is present-day southeast Ecuador (Zamora-Chinchipe Province) by the Mayo-Chinchipe culture, before being introduced in Mesoamerica.[1][11]
+
+Mesoamerican usage
+
+Image from a Maya ceramic depicting a container of frothed chocolate
+Chocolate has been prepared as a drink for nearly all of its history. For example, one vessel found at an Olmec archaeological site on the Gulf Coast of Veracruz, Mexico, dates chocolate's preparation by pre-Olmec peoples as early as 1750 BC.[12] On the Pacific coast of Chiapas, Mexico, a Mokaya archaeological site provides evidence of cocoa beverages dating even earlier to 1900 BCE.[13][12] The residues and the kind of vessel in which they were found indicate the initial use of cocoa was not simply as a beverage; the white pulp around the cocoa beans was likely used as a source of fermentable sugars for an alcoholic drink.[14]
+
+
+Mexica. Man Carrying a Cacao Pod, 1440–1521. Volcanic stone, traces of red pigment. Brooklyn Museum.
+An early Classic-period (460–480 CE) Maya tomb from the site in Rio Azul had vessels with the Maya glyph for cocoa on them with residue of a chocolate drink, which suggests that the Maya were drinking chocolate around 400 CE.[15] Documents in Maya hieroglyphs stated that chocolate was used for ceremonial purposes in addition to everyday life.[16] The Maya grew cacao trees in their backyards[17] and used the cocoa seeds the trees produced to make a frothy, bitter drink.[18]
+
+By the 15th century, the Aztecs had gained control of a large part of Mesoamerica and had adopted cocoa into their culture. They associated chocolate with Quetzalcoatl, who, according to one legend, was cast away by the other gods for sharing chocolate with humans,[19] and identified its extrication from the pod with the removal of the human heart in sacrifice.[20] In contrast to the Maya, who liked their chocolate warm, the Aztecs drank it cold, seasoning it with a broad variety of additives, including the petals of the Cymbopetalum penduliflorum tree, chili pepper, allspice, vanilla, and honey.
+
+The Aztecs were unable to grow cocoa themselves, as their home in the Mexican highlands was unsuitable for it, so chocolate was a luxury imported into the empire.[19] Those who lived in areas ruled by the Aztecs were required to offer cocoa seeds in payment of the tax they deemed "tribute".[19] Cocoa beans were often used as currency.[21] For example, the Aztecs used a system in which one turkey cost 100 cocoa beans[22] and one fresh avocado was worth three beans.[23]
+
+The Maya and Aztecs associated cocoa with human sacrifice, and chocolate drinks specifically with sacrificial human blood.[24][25] The Spanish royal chronicler Gonzalo Fernández de Oviedo y Valdés described a chocolate drink he had seen in Nicaragua in 1528, mixed with achiote: "because those people are fond of drinking human blood, to make this beverage seem like blood, they add a little achiote, so that it then turns red. ... and part of that foam is left on the lips and around the mouth, and when it is red for having achiote, it seems a horrific thing, because it seems like blood itself."[25]
+
+Adaptation outside Mesoamerica
+See also: History of chocolate in Spain
+
+"Traités nouveaux & curieux du café du thé et du chocolate", by Philippe Sylvestre Dufour, 1685 ("New and curious treatises of coffee, tea and chocolate")
+Until the 16th century, no European had ever heard of the popular drink from the Central American peoples.[19] Christopher Columbus and his son Ferdinand encountered the cocoa bean on Columbus's fourth mission to the Americas on 15 August 1502, when he and his crew stole a large native canoe that proved to contain cocoa beans among other goods for trade.[26] Spanish conquistador Hernán Cortés may have been the first European to encounter it, as the frothy drink was part of the after-dinner routine of Montezuma.[15][27] José de Acosta, a Spanish Jesuit missionary who lived in Peru and then Mexico in the later 16th century, wrote of its growing influence on the Spaniards:
+
+Although bananas are more profitable, cocoa is more highly esteemed in Mexico... Cocoa is a smaller fruit than almonds and thicker, which toasted do not taste bad. It is so prized among the Indians and even among Spaniards... because since it is a dried fruit it can be stored for a long time without deterioration, and they brings ships loaded with them from the province of Guatemala... It also serves as currency, because with five cocoas you can buy one thing, with thirty another, and with a hundred something else, without there being contradiction; and they give these cocoas as alms to the poor who beg for them. The principal product of this cocoa is a concoction which they make that they call "chocolate", which is a crazy thing treasured in that land, and those who are not accustomed are disgusted by it, because it has a foam on top and a bubbling like that of feces, which certainly takes a lot to put up with. Anyway, it is the prized beverage which the Indians offer to nobles who come to or pass through their lands; and the Spaniards, especially Spanish women born in those lands die for black chocolate. This aforementioned chocolate is said to be made in various forms and temperaments, hot, cold, and lukewarm. They are wont to use spices and much chili; they also make it into a paste, and it is said that it is a medicine to treat coughs, the stomach, and colds. Whatever may be the case, in fact those who have not been reared on this opinion are not appetized by it.[28]
+
+
+Chocolate soon became a fashionable drink of the European nobility after the discovery of the Americas. The morning chocolate by Pietro Longhi; Venice, 1775–1780
+While Columbus had taken cocoa beans with him back to Spain,[26] chocolate made no impact until Spanish friars introduced it to the Spanish court.[19] Agustín Farfán, a former court physician and Friar in New Spain, in Tratado Breve de Medicina first introduced cocoa, derived from cacao (native to New Spain), to Europe with a medical use (digestion). Through the 17th and 18th centuries, doctors affirmed the healthy effects of chocolate, consequently boosting the import of chocolate and introducing its consumption in the Europe.[29]
+
+After the Spanish conquest of the Aztecs, chocolate was imported to Europe. There, it quickly became a court favorite. It was still served as a beverage, but the Spanish added sugar, as well as honey (the original sweetener used by the Aztecs for chocolate), to counteract the natural bitterness.[22] Vanilla, another indigenous American introduction, was also a popular additive, with pepper and other spices sometimes used to give the illusion of a more potent vanilla flavor. Unfortunately, these spices tended to unsettle the European constitution; the Encyclopédie states, "The pleasant scent and sublime taste it imparts to chocolate have made it highly recommended; but a long experience having shown that it could potentially upset one's stomach", which is why chocolate without vanilla was sometimes referred to as "healthy chocolate".[30] By 1602, chocolate had made its way from Spain to Austria.[31] By 1662, Pope Alexander VII had declared that religious fasts were not broken by consuming chocolate drinks. Within about a hundred years, chocolate established a foothold throughout Europe.[19]
+
+
+Silver chocolate pot with hinged finial to insert a moulinet or swizzle stick, London 1714–15 (Victoria and Albert Museum)
+The new craze for chocolate brought with it a thriving slave market, as between the early 1600s and late 1800s, the laborious and slow processing of the cocoa bean was manual.[19] Cocoa plantations spread, as the English, Dutch, and French colonized and planted. With the depletion of Mesoamerican workers, largely to disease, cocoa production was often the work of poor wage laborers and African slaves. Wind-powered and horse-drawn mills were used to speed production, augmenting human labor. Heating the working areas of the table-mill, an innovation that emerged in France in 1732, also assisted in extraction.[32]
+
+In 1729, the first water-powered machinery to grind cocoa beans was developed by Charles Churchman and his son Walter in Bristol, England.[33] In 1761, Joseph Fry and his partner John Vaughan bought Churchman's premises, founding Fry's.[33] The same year, Fry and Vaughan also acquired their own patent for a water-powered machine that could grind the cocoa beans to a fine powder and thus produce a superior cocoa drink.[34] In 1795, chocolate production entered the Industrial era when Fry's, under the founder's son Joseph Storrs Fry, used a Watt steam engine to ground cocoa beans.[33] The Baker Chocolate Company, which makes Baker's Chocolate, is the oldest producer of chocolate in the United States. Founded by Dr. James Baker and John Hannon in Boston in 1765, the business is still in operation.[35][36]
+
+Solid chocolate
+Despite the drink remaining the traditional form of consumption for a long time, solid chocolate was increasingly consumed since the 18th century.[37][38] Tablets, facilitating the consumption of chocolate under its solid form, have been produced since the early 19th century. Cailler (1819)[39] and Menier (1836)[40] are early examples. In 1830, chocolate is paired with hazelnuts, an innovation due to Kohler.[41]
+
+
+Dutch chemist Coenraad Johannes van Houten invented "Dutch cocoa" by treating cocoa mass with alkaline salts to reduce the natural bitterness without adding sugar or milk to get usable cocoa powder.
+Meanwhile, new processes that sped the production of chocolate emerged early in the Industrial Revolution. In 1815, Dutch chemist Coenraad van Houten introduced alkaline salts to chocolate, which reduced its bitterness.[19] A few years thereafter, in 1828, he created a press to remove about half the natural fat (cocoa butter) from chocolate liquor, which made chocolate both cheaper to produce and more consistent in quality. This innovation introduced the modern era of chocolate, allowing the mass-production of both pure cocoa butter and cocoa powder.[26]
+
+
+The first mass-produced chocolate bar, Fry's Chocolate Cream, was produced by Fry's in 1866.[42]
+Known as "Dutch cocoa", this machine-pressed chocolate was instrumental in the transformation of chocolate to its solid form when, in 1847, English chocolatier Joseph Fry discovered a way to make chocolate more easily moldable when he mixed the ingredients of cocoa powder and sugar with melted cocoa butter.[22][33] Subsequently, in 1866 his chocolate factory, Fry's, launched the first mass-produced chocolate bar, Fry's Chocolate Cream, and they became very popular.[42] Milk had sometimes been used as an addition to chocolate beverages since the mid-17th century, but in 1875 Swiss chocolatier Daniel Peter invented milk chocolate by mixing a powdered milk developed by Henri Nestlé with the liquor.[19][26] In 1879, the texture and taste of chocolate was further improved when Rudolphe Lindt invented the conching machine.[43]
+
+Besides Nestlé, several notable chocolate companies had their start in the late 19th and early 20th centuries. Rowntree's of York set up and began producing chocolate in 1862, after buying out the Tuke family business. Cadbury of Birmingham was manufacturing boxed chocolates in England by 1868.[19] Manufacturing their first Easter egg in 1875, Cadbury created the modern chocolate Easter egg after developing a pure cocoa butter that could easily be molded into smooth shapes.[44] In 1893, Milton S. Hershey purchased chocolate processing equipment at the World's Columbian Exposition in Chicago, and soon began the career of Hershey's chocolates with chocolate-coated caramels.
+
+Types
+Main article: Types of chocolate
+
+Barks made of different varieties of chocolate
+Several types of chocolate can be distinguished. Pure, unsweetened chocolate, often called "baking chocolate", contains primarily cocoa solids and cocoa butter in varying proportions. Much of the chocolate consumed today is in the form of sweet chocolate, which combines chocolate with sugar.
+
+Eating chocolate
+The traditional types of chocolate are dark, milk and white. All of them contain cocoa butter, which is the ingredient defining the physical properties of chocolate (consistency and melting temperature). Plain (or dark) chocolate, as it name suggests, is a form of chocolate that is similar to pure cocoa liquor, although is usually made with a slightly higher proportion of cocoa butter.[45] It is simply defined by its cocoa percentage. In milk chocolate, the non-fat cocoa solids are partly or mostly replaced by milk solids.[46] In white chocolate, they are all replaced by milk solids, hence its ivory color.[47]
+
+Other forms of eating chocolate exist, these include raw chocolate (made with unroasted beans) and ruby chocolate. An additional popular form of eating chocolate, gianduja, is made by incorporating nut paste (typically hazelnut) to the chocolate paste.[48]
+
+Other types
+Other types of chocolate are used in baking and confectionery. These include baking chocolate (often unsweetened), couverture chocolate (used for coating), compound chocolate (a lower-cost alternative) and modeling chocolate. Modeling chocolate is a chocolate paste made by melting chocolate and combining it with corn syrup, glucose syrup, or golden syrup.[49]
+
+Production
+See also: Children in cocoa production and Cocoa production in Ivory Coast
+
+Chocolate is created from the cocoa bean. A cacao tree with fruit pods in various stages of ripening.
+Roughly two-thirds of the entire world's cocoa is produced in West Africa, with 43% sourced from Côte d'Ivoire,[50] where, as of 2007, child labor is a common practice to obtain the product.[51][52] According to the World Cocoa Foundation, in 2007 some 50 million people around the world depended on cocoa as a source of livelihood.[53] As of 2007 in the UK, most chocolatiers purchase their chocolate from them, to melt, mold and package to their own design.[54] According to the WCF's 2012 report, the Ivory Coast is the largest producer of cocoa in the world.[55] The two main jobs associated with creating chocolate candy are chocolate makers and chocolatiers. Chocolate makers use harvested cocoa beans and other ingredients to produce couverture chocolate (covering). Chocolatiers use the finished couverture to make chocolate candies (bars, truffles, etc.).[56]
+
+Production costs can be decreased by reducing cocoa solids content or by substituting cocoa butter with another fat. Cocoa growers object to allowing the resulting food to be called "chocolate", due to the risk of lower demand for their crops.[53]
+
+Genome
+The sequencing in 2010 of the genome of the cacao tree may allow yields to be improved.[57] Due to concerns about global warming effects on lowland climate in the narrow band of latitudes where cocoa is grown (20 degrees north and south of the equator), the commercial company Mars, Incorporated and the University of California, Berkeley, are conducting genomic research in 2017–18 to improve the survivability of cacao plants in hot climates.[58]
+
+Cacao varieties
+Main article: Cocoa bean § Varieties
+
+Toasted cocoa beans at a chocolate workshop at the La Chonita Hacienda in Tabasco
+Chocolate is made from cocoa beans, the dried and fermented seeds of the cacao tree (Theobroma cacao), a small, 4–8 m tall (15–26 ft tall) evergreen tree native to the deep tropical region of the Americas. Recent genetic studies suggest the most common genotype of the plant originated in the Amazon basin and was gradually transported by humans throughout South and Central America. Early forms of another genotype have also been found in what is now Venezuela. The scientific name, Theobroma, means "food of the gods".[59] The fruit, called a cocoa pod, is ovoid, 15–30 cm (6–12 in) long and 8–10 cm (3–4 in) wide, ripening yellow to orange, and weighing about 500 g (1.1 lb) when ripe.
+
+Cacao trees are small, understory trees that need rich, well-drained soils. They naturally grow within 20° of either side of the equator because they need about 2000 mm of rainfall a year, and temperatures in the range of 21 to 32 °C (70 to 90 °F). Cacao trees cannot tolerate a temperature lower than 15 °C (59 °F).[60]
+
+The three main varieties of cocoa beans used in chocolate are criollo, forastero, and trinitario.
+
+Processing
+Cocoa pods are harvested by cutting them from the tree using a machete, or by knocking them off the tree using a stick. It is important to harvest the pods when they are fully ripe, because if the pod is unripe, the beans will have a low cocoa butter content, or low sugar content, reducing the ultimate flavor.
+
+Microbial fermentation
+
+"Dancing the cocoa", Trinidad, c. 1957
+The beans (which are sterile within their pods) and their surrounding pulp are removed from the pods and placed in piles or bins to ferment. Micro-organisms, present naturally in the environment, ferment the pectin-containing material. Yeasts produce ethanol, lactic acid bacteria produce lactic acid, and acetic acid bacteria produce acetic acid. In some cocoa-producing regions an association between filamentous fungi and bacteria (called "cocobiota") acts to produce metabolites beneficial to human health when consumed.[61] The fermentation process, which takes up to seven days, also produces several flavor precursors, that eventually provide the chocolate taste.[62]
+
+After fermentation, the beans must be dried to prevent mold growth. Climate and weather permitting, this is done by spreading the beans out in the sun from five to seven days.[63] In some growing regions (for example, Tobago), the dried beans are then polished for sale by "dancing the cocoa": spreading the beans onto a floor, adding oil or water, and shuffling the beans against each other using bare feet.[64]
+
+The dried beans are then transported to a chocolate manufacturing facility. The beans are cleaned (removing twigs, stones, and other debris), roasted, and graded. Next, the shell of each bean is removed to extract the nib. The nibs are ground and liquefied, resulting in pure chocolate liquor.[65] The liquor can be further processed into cocoa solids and cocoa butter.[66]
+
+Moist incubation
+In this alternative process, the beans are dried without fermentation. The nibs are then removed and hydrated in an acidic solution. They are heated for 72 hours and dried again. Gas chromatography/mass spectrometry showed that the incubated chocolate had higher levels of Strecker aldehydes, and lower levels of pyrazines.[67][68]
+
+Blending
+Main article: Types of chocolate
+Chocolate liquor is blended with the cocoa butter in varying quantities to make different types of chocolate or couverture. The basic blends of ingredients for the various types of chocolate (in order of highest quantity of cocoa liquor first), are:
+
+
+Fountain chocolate is made with high levels of cocoa butter, allowing it to flow gently over a chocolate fountain to serve as dessert fondue.
+Dark chocolate: sugar, cocoa butter, cocoa liquor, and (sometimes) vanilla
+Milk chocolate: sugar, cocoa butter, cocoa liquor, milk or milk powder, and vanilla
+White chocolate: sugar, cocoa butter, milk or milk powder, and vanilla
+Usually, an emulsifying agent, such as soy lecithin, is added, though a few manufacturers prefer to exclude this ingredient for purity reasons and to remain GMO-free, sometimes at the cost of a perfectly smooth texture. Some manufacturers are now using PGPR, an artificial emulsifier derived from castor oil that allows them to reduce the amount of cocoa butter while maintaining the same mouthfeel.
+
+The texture is also heavily influenced by processing, specifically conching (see below). The more expensive chocolate tends to be processed longer and thus has a smoother texture and mouthfeel, regardless of whether emulsifying agents are added.
+
+Different manufacturers develop their own "signature" blends based on the above formulas, but varying proportions of the different constituents are used. The finest, plain dark chocolate couverture contains at least 70% cocoa (both solids and butter), whereas milk chocolate usually contains up to 50%. High-quality white chocolate couverture contains only about 35% cocoa butter.
+
+Producers of high-quality, small-batch chocolate argue that mass production produces bad-quality chocolate.[69] Some mass-produced chocolate contains much less cocoa (as low as 7% in many cases), and fats other than cocoa butter. Vegetable oils and artificial vanilla flavor are often used in cheaper chocolate to mask poorly fermented and/or roasted beans.[69]
+
+In 2007, the Chocolate Manufacturers Association in the United States, whose members include Hershey, Nestlé, and Archer Daniels Midland, lobbied the Food and Drug Administration (FDA) to change the legal definition of chocolate to let them substitute partially hydrogenated vegetable oils for cocoa butter, in addition to using artificial sweeteners and milk substitutes.[70] Currently, the FDA does not allow a product to be referred to as "chocolate" if the product contains any of these ingredients.[71][72]
+
+In the EU a product can be sold as chocolate if it contains up to 5% vegetable oil, and must be labeled as "family milk chocolate" rather than "milk chocolate" if it contains 20% milk.[73]
+
+According to Canadian Food and Drug Regulations,[74] a "chocolate product" is a food product that is sourced from at least one "cocoa product" and contains at least one of the following: "chocolate, bittersweet chocolate, semi-sweet chocolate, dark chocolate, sweet chocolate, milk chocolate, or white chocolate". A "cocoa product" is defined as a food product that is sourced from cocoa beans and contains "cocoa nibs, cocoa liquor, cocoa mass, unsweetened chocolate, bitter chocolate, chocolate liquor, cocoa, low-fat cocoa, cocoa powder, or low-fat cocoa powder".
+
+Conching
+Main article: Conching
+
+Chocolate melanger mixing raw ingredients
+The penultimate process is called conching. A conche is a container filled with metal beads, which act as grinders. The refined and blended chocolate mass is kept in a liquid state by frictional heat. Chocolate before conching has an uneven and gritty texture. The conching process produces cocoa and sugar particles smaller than the tongue can detect (typically around 20 μm) and reduces rough edges, hence the smooth feel in the mouth. The length of the conching process determines the final smoothness and quality of the chocolate. High-quality chocolate is conched for about 72 hours, and lesser grades about four to six hours. After the process is complete, the chocolate mass is stored in tanks heated to about 45 to 50 °C (113 to 122 °F) until final processing.[75]
+
+Tempering
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources in this section. Unsourced material may be challenged and removed.
+Find sources: "Chocolate" – news · newspapers · books · scholar · JSTOR (November 2022) (Learn how and when to remove this template message)
+Duration: 51 seconds.0:51
+Video of cocoa beans being ground and mixed with other ingredients to make chocolate at a Mayordomo store in Oaxaca
+The final process is called tempering. Uncontrolled crystallization of cocoa butter typically results in crystals of varying size, some or all large enough to be seen with the naked eye. This causes the surface of the chocolate to appear mottled and matte, and causes the chocolate to crumble rather than snap when broken.[76][77] The uniform sheen and crisp bite of properly processed chocolate are the results of consistently small cocoa butter crystals produced by the tempering process.
+
+The fats in cocoa butter can crystallize in six different forms (polymorphous crystallization).[76][78] The primary purpose of tempering is to assure that only the best form, Type V, is present. The six different crystal forms have different properties.
+
+Crystal	Melting temp.	Notes
+I	17 °C (63 °F)	Soft, crumbly, melts too easily
+II	21 °C (70 °F)	Soft, crumbly, melts too easily
+III	26 °C (79 °F)	Firm, poor snap, melts too easily
+IV	28 °C (82 °F)	Firm, good snap, melts too easily
+V	34 °C (93 °F)	Glossy, firm, best snap, melts near body temperature (37 °C)
+VI	36 °C (97 °F)	Hard, takes weeks to form
+
+Molten chocolate and a piece of a chocolate bar
+As a solid piece of chocolate, the cocoa butter fat particles are in a crystalline rigid structure that gives the chocolate its solid appearance. Once heated, the crystals of the polymorphic cocoa butter can break apart from the rigid structure and allow the chocolate to obtain a more fluid consistency as the temperature increases – the melting process. When the heat is removed, the cocoa butter crystals become rigid again and come closer together, allowing the chocolate to solidify.[79]
+
+The temperature in which the crystals obtain enough energy to break apart from their rigid conformation would depend on the milk fat content in the chocolate and the shape of the fat molecules, as well as the form of the cocoa butterfat. Chocolate with a higher fat content will melt at a lower temperature.[80]
+
+Making chocolate considered "good" is about forming as many type V crystals as possible. This provides the best appearance and texture and creates the most stable crystals, so the texture and appearance will not degrade over time. To accomplish this, the temperature is carefully manipulated during the crystallization.
+
+
+Chocolate cubes, pistoles and callets
+Generally, the chocolate is first heated to 45 °C (113 °F) to melt all six forms of crystals.[76][78] Next, the chocolate is cooled to about 27 °C (81 °F), which will allow crystal types IV and V to form. At this temperature, the chocolate is agitated to create many small crystal "seeds" which will serve as nuclei to create small crystals in the chocolate. The chocolate is then heated to about 31 °C (88 °F) to eliminate any type IV crystals, leaving just type V. After this point, any excessive heating of the chocolate will destroy the temper and this process will have to be repeated. Other methods of chocolate tempering are used as well. The most common variant is introducing already tempered, solid "seed" chocolate. The temper of chocolate can be measured with a chocolate temper meter to ensure accuracy and consistency. A sample cup is filled with the chocolate and placed in the unit which then displays or prints the results.
+
+Two classic ways of manually tempering chocolate are:
+
+Working the molten chocolate on a heat-absorbing surface, such as a stone slab, until thickening indicates the presence of sufficient crystal "seeds"; the chocolate is then gently warmed to working temperature.
+Stirring solid chocolate into molten chocolate to "inoculate" the liquid chocolate with crystals (this method uses the already formed crystals of the solid chocolate to "seed" the molten chocolate).
+Chocolate tempering machines (or temperers) with computer controls can be used for producing consistently tempered chocolate. In particular, continuous tempering machines are used in large volume applications. Various methods and apparatuses for continuous flow tempering. In general, molten chocolate coming in at 40–50 °C is cooled in heat exchangers to crystallization temperates of about 26–30 °C, passed through a tempering column consisting of spinning plates to induce shear, then warmed slightly to re-melt undesirable crystal formations.
+
+Shaping
+Chocolate is molded in different shapes for different uses:[81]
+
+Chocolate bars (tablets) are rectangular blocks of chocolate meant to be broken down to cubes (or other predefined shapes), which can then be used for consumption, cooking and baking. The term is also used for combination bars, which are a type of candy bars
+Chocolate chips are small pieces of chocolate, usually drop-like, which are meant for decoration and baking
+Pistoles, callets and fèves are small, coin-like or bean-like pieces of chocolate meant for baking and patisserie applications (also see Pistole (coin) and Fève (trinket))
+Chocolate blocks are large, cuboid chunks of chocolate meant for professional use and further processing
+Other, more specialized shapes for chocolate include sticks, curls and hollow semi-spheres
+Storage
+
+Packaged chocolate in the Ghirardelli Chocolate Company is stored in controlled conditions.
+Chocolate is very sensitive to temperature and humidity. Ideal storage temperatures are between 15 and 17 °C (59 and 63 °F), with a relative humidity of less than 50%. If refrigerated or frozen without containment, chocolate can absorb enough moisture to cause a whitish discoloration, the result of fat or sugar crystals rising to the surface. Various types of "blooming" effects can occur if chocolate is stored or served improperly.[82]
+
+Chocolate bloom is caused by storage temperature fluctuating or exceeding 24 °C (75 °F), while sugar bloom is caused by temperature below 15 °C (59 °F) or excess humidity. To distinguish between different types of bloom, one can rub the surface of the chocolate lightly, and if the bloom disappears, it is fat bloom. Moving chocolate between temperature extremes, can result in an oily texture. Although visually unappealing, chocolate suffering from bloom is safe for consumption and taste is unaffected.[83][84][85] Bloom can be reversed by retempering the chocolate or using it for any use that requires melting the chocolate.[86]
+
+Chocolate is generally stored away from other foods, as it can absorb different aromas. Ideally, chocolates are packed or wrapped, and placed in proper storage with the correct humidity and temperature. Additionally, chocolate is frequently stored in a dark place or protected from light by wrapping paper. The glossy shine, snap, aroma, texture, and taste of the chocolate can show the quality and if it was stored well.[87]
+
+Candies, milk chocolate
+Nutritional value per 100 g (3.5 oz)
+Energy	2,240 kJ (540 kcal)
+Carbohydrates
+59.4
+Sugars	51.5 g
+Dietary fiber	3.4 g
+Fat
+29.7
+Protein
+7.6 g
+Vitamins	Quantity%DV†
+Vitamin A	195 IU
+Thiamine (B1)	8%0.1 mg
+Riboflavin (B2)	23%0.3 mg
+Niacin (B3)	3%0.4 mg
+Pantothenic acid (B5)	10%0.5 mg
+Vitamin B6	0%0.0 mg
+Folate (B9)	3%11 μg
+Vitamin B12	29%0.7 μg
+Choline	8%46.1 mg
+Vitamin C	0%0 mg
+Vitamin E	3%0.5 mg
+Vitamin K	5%5.7 μg
+Minerals	Quantity%DV†
+Calcium	15%189 mg
+Iron	13%2.4 mg
+Magnesium	15%63 mg
+Manganese	22%0.5 mg
+Phosphorus	17%208 mg
+Potassium	12%372 mg
+Selenium	8%4.5 μg
+Sodium	3%79 mg
+Zinc	21%2.3 mg
+Other constituents	Quantity
+Water	1.5 g
+Caffeine	20 mg
+Cholesterol	23 mg
+Theobromine	205 mg
+Link to USDA Database entry
+†Percentages estimated using US recommendations for adults.[88]
+Nutrition
+One hundred grams of milk chocolate supplies 540 calories. It is 59% carbohydrates (52% as sugar and 3% as dietary fiber), 30% fat and 8% protein (table). Approximately 65% of the fat in milk chocolate is saturated, mainly palmitic acid and stearic acid, while the predominant unsaturated fat is oleic acid (table).
+
+100-grams of milk chocolate is an excellent source (over 19% of the Daily Value, DV) of riboflavin, vitamin B12 and the dietary minerals, manganese, phosphorus and zinc. Chocolate is a good source (10–19% DV) of calcium, magnesium and iron.
+
+
+Assorted chocolates
+Health effects
+Phytochemicals
+See also: Polyphenol § Research
+Chocolate contains polyphenols, especially flavan-3-ols (catechins) and smaller amounts of other flavonoids.[89][90] It also contains alkaloids, such as theobromine, phenethylamine, and caffeine, [91] which are under study for their potential effects in the body.[92]
+
+Lead
+It is unlikely that chocolate consumption in small amounts causes lead poisoning. Some studies have shown that lead may bind to cocoa shells, and contamination may occur during the manufacturing process.[93] One study showed the mean lead level in milk chocolate candy bars was 0.027 µg lead per gram of candy;[93] another study found that some chocolate purchased at U.S. supermarkets contained up to 0.965 µg per gram, close to the international (voluntary) standard limit for lead in cocoa powder or beans, which is 1 µg of lead per gram.[94] In 2006, the U.S. FDA lowered by one-fifth the amount of lead permissible in candy, but compliance is only voluntary.[95] Studies concluded that "children, who are big consumers of chocolates, may be at risk of exceeding the daily limit of lead; whereas one 10 g cube of dark chocolate may contain as much as 20% of the daily lead oral limit. "Moreover chocolate may not be the only source of lead in their nutrition"[96] and "chocolate might be a significant source of cadmium and lead ingestion, particularly for children."[97] According to a 2005 study, the average lead concentration of cocoa beans is ≤ 0.5 ng/g, which is one of the lowest reported values for a natural food.[93] However, during cultivation and production, chocolate may absorb lead from the environment (such as in atmospheric emissions of now unused leaded gasoline).[93][98]
+
+Cadmium
+The European Food Safety Authority recommended a tolerable weekly intake for cadmium of 2.5 micrograms per kg of body weight for Europeans, indicating that consuming chocolate products caused exposure of about 4% among all foods eaten.[99][100][101] 1986 California Proposition 65 requires a warning label on chocolate products having more than 4.1 mg of cadmium per daily serving of a single product.[102][103][104]
+
+Caffeine
+One tablespoonful (5 grams) of dry unsweetened cocoa powder has 12.1 mg of caffeine[105] and a 25-g single serving of dark chocolate has 22.4 mg of caffeine.[106] Although a single 7 oz. (200 ml) serving of coffee may contain 80–175 mg,[107] studies have shown psychoactive effects in caffeine doses as low as 9 mg, and a dose as low as 12.5 mg was shown to have effects on cognitive performance.[108]
+
+Theobromine and oxalate
+Chocolate may be a factor for heartburn in some people because one of its constituents, theobromine, may affect the esophageal sphincter muscle in a way that permits stomach acids to enter the esophagus.[109] Theobromine poisoning is an overdosage reaction to the bitter alkaloid, which happens more frequently in domestic animals than humans. However, daily intake of 50–100 g cocoa (0.8–1.5 g theobromine) by humans has been associated with sweating, trembling, and severe headache.[110]
+
+Chocolate and cocoa contain moderate to high amounts of oxalate,[111][112] which may increase the risk of kidney stones.[113]
+
+Non-human animals
+Main article: Theobromine poisoning
+In sufficient amounts, the theobromine found in chocolate is toxic to animals such as cats, dogs, horses, parrots, and small rodents because they are unable to metabolise the chemical effectively.[114] If animals are fed chocolate, the theobromine may remain in the circulation for up to 20 hours, possibly causing epileptic seizures, heart attacks, internal bleeding, and eventually death. Medical treatment performed by a veterinarian involves inducing vomiting within two hours of ingestion and administration of benzodiazepines or barbiturates for seizures, antiarrhythmics for heart arrhythmias, and fluid diuresis.
+
+A typical 20-kilogram (44 lb) dog will normally experience great intestinal distress after eating less than 240 grams (8.5 oz) of dark chocolate, but will not necessarily experience bradycardia or tachycardia unless it eats at least a half a kilogram (1.1 lb) of milk chocolate. Dark chocolate has 2 to 5 times more theobromine and thus is more dangerous to dogs. According to the Merck Veterinary Manual, approximately 1.3 grams of baker's chocolate per kilogram of a dog's body weight (0.02 oz/lb) is sufficient to cause symptoms of toxicity. For example, a typical 25-gram (0.88 oz) baker's chocolate bar would be enough to bring about symptoms in a 20-kilogram (44 lb) dog. In the 20th century, there were reports that mulch made from cacao bean shells is dangerous to dogs and livestock.[115][116]
+
+Research
+Obesity
+Commonly consumed chocolate is high in fat and sugar, which are associated with an increased risk for obesity when chocolate is consumed in excess.[117]
+
+Acne
+Overall evidence is insufficient to determine the relationship between chocolate consumption and acne.[118][119] Various studies point not to chocolate, but to the high glycemic nature of certain foods, like sugar, corn syrup, and other simple carbohydrates, as potential causes of acne,[118][119][120][121] along with other possible dietary factors.[118][122]
+
+Addiction
+Main article: Chocoholic
+Food, including chocolate, is not typically viewed as addictive.[123] Some people, however, may want or crave chocolate,[123] leading to a self-described term, chocoholic.[123][124]
+
+Mood
+By some popular myths, chocolate is considered to be a mood enhancer, such as by increasing sex drive or stimulating cognition, but there is little scientific evidence that such effects are consistent among all chocolate consumers.[125][126] If mood improvement from eating chocolate occurs, there is not enough research to indicate whether it results from the favorable flavor or from the stimulant effects of its constituents, such as caffeine, theobromine, or their parent molecule, methylxanthine.[126] A 2019 review reported that chocolate consumption does not improve depressive mood.[127]
+
+Heart and blood vessels
+Reviews support a short-term effect of lowering blood pressure by consuming cocoa products, but there is no evidence of long-term cardiovascular health benefit.[128][129] Chocolate and cocoa are under preliminary research to determine if consumption affects the risk of certain cardiovascular diseases[130] or enhances cognitive abilities.[131]
+
+While daily consumption of cocoa flavanols (minimum dose of 200 mg) appears to benefit platelet and vascular function,[132] there is no good evidence to indicate an effect on heart attacks or strokes.[132][133] Research has also shown that consuming dark chocolate does not substantially affect blood pressure.[134]
+
+Labeling
+Some manufacturers provide the percentage of chocolate in a finished chocolate confection as a label quoting percentage of "cocoa" or "cacao". This refers to the combined percentage of both cocoa solids and cocoa butter in the bar, not just the percentage of cocoa solids.[135] The Belgian AMBAO certification mark indicates that no non-cocoa vegetable fats have been used in making the chocolate.[136][137] A long-standing dispute between Britain on the one hand and Belgium and France over British use of vegetable fats in chocolate ended in 2000 with the adoption of new standards which permitted the use of up to five percent vegetable fats in clearly labelled products.[138] This British style of chocolate has sometimes been pejoratively referred to as "vegelate".[138]
+
+Chocolates that are organic[139] or fair trade certified[140] carry labels accordingly.
+
+In the United States, some large chocolate manufacturers lobbied the federal government to permit confections containing cheaper hydrogenated vegetable oil in place of cocoa butter to be sold as "chocolate". In June 2007, in response to consumer concern about the proposal, the FDA reiterated "Cacao fat, as one of the signature characteristics of the product, will remain a principal component of standardized chocolate."[141]
+
+Industry
+Chocolate, prevalent throughout the world, is a steadily growing, US$50 billion-a-year worldwide business.[142] Europe accounts for 45% of the world's chocolate revenue,[143] and the US spent $20 billion in 2013.[144] Big Chocolate is the grouping of major international chocolate companies in Europe and the U.S. U.S. companies Mars and Hershey's alone generated $13 billion a year in chocolate sales and account for two-thirds of U.S. production in 2004.[145] Despite the expanding reach of the chocolate industry internationally, cocoa farmers and labourers in the Ivory Coast are often unaware of the uses of the beans; the high cost of chocolate products in the Ivory Coast makes them inaccessible to the majority of the population, who do not know what chocolate tastes like.[146]
+
+Manufacturers
+Main article: List of bean-to-bar chocolate manufacturers
+
+Chocolate with various fillings
+Chocolate manufacturers produce a range of products from chocolate bars to fudge. Large manufacturers of chocolate products include Cadbury (the world's largest confectionery manufacturer), Ferrero, Guylian, The Hershey Company, Lindt & Sprüngli, Mars, Incorporated, Milka, Neuhaus and Suchard.
+
+Guylian is best known for its chocolate sea shells; Cadbury for its Dairy Milk and Creme Egg. The Hershey Company, the largest chocolate manufacturer in North America, produces the Hershey Bar and Hershey's Kisses.[147] Mars Incorporated, a large privately owned U.S. corporation, produces Mars Bar, Milky Way, M&M's, Twix, and Snickers. Lindt is known for its truffle balls and gold foil-wrapped Easter bunnies.
+
+Food conglomerates Nestlé SA and Kraft Foods both have chocolate brands. Nestlé acquired Rowntree's in 1988 and now markets chocolates under their brand, including Smarties (a chocolate candy) and Kit Kat (a chocolate bar); Kraft Foods through its 1990 acquisition of Jacobs Suchard, now owns Milka and Suchard. In February 2010, Kraft also acquired British-based Cadbury;[148] Fry's, Trebor Basset and the fair trade brand Green & Black's also belongs to the group.
+
+Child labor in cocoa harvesting
+Main article: Children in cocoa production
+See also: Cocoa production in Ivory Coast
+See also: Cocoa production in Ghana
+The widespread use of children in cocoa production is controversial, not only for the concerns about child labor and exploitation, but also because up to 12,000 of the 200,000 children working in the Ivory Coast, the world's biggest producer of cocoa,[149] may be victims of trafficking or slavery.[150] Most attention on this subject has focused on West Africa, which collectively supplies 69 percent of the world's cocoa,[151] and the Ivory Coast in particular, which supplies 35 percent of the world's cocoa.[151] Thirty percent of children under age 15 in sub-Saharan Africa are child laborers, mostly in agricultural activities including cocoa farming.[152] Major chocolate producers, such as Nestlé, buy cocoa at commodities exchanges where Ivorian cocoa is mixed with other cocoa.[153]
+
+In 2009, Salvation Army International Development (SAID) UK stated that 12,000 children have been trafficked on cocoa farms in the Ivory Coast of Africa, where half of the world's chocolate is made.[154] SAID UK states that it is these child slaves who are likely to be working in "harsh and abusive"[155] conditions for the production of chocolate,[154] and an increasing number of health-food[156] and anti-slavery[157] organisations are highlighting and campaigning against the use of trafficking in the chocolate industry.
+
+As of 2017, approximately 2.1 million children in Ghana and Côte d'Ivoire were involved in farming cocoa, carrying heavy loads, clearing forests, and being exposed to pesticides.[4] According to Sona Ebai, the former secretary-general of the Alliance of Cocoa Producing Countries: "I think child labor cannot be just the responsibility of industry to solve. I think it's the proverbial all-hands-on-deck: government, civil society, the private sector. And there, you need leadership."[150] Reported in 2018, a 3-year pilot program – conducted by Nestlé with 26,000 farmers mostly located in Côte d'Ivoire – observed a 51% decrease in the number of children doing hazardous jobs in cocoa farming.[3] The US Department of Labor formed the Child Labor Cocoa Coordinating Group as a public-private partnership with the governments of Ghana and Côte d'Ivoire to address child labor practices in the cocoa industry.[158] The International Cocoa Initiative involving major cocoa manufacturers established the Child Labor Monitoring and Remediation System intended to monitor thousands of farms in Ghana and Côte d'Ivoire for child labor conditions,[3][4] but the program reached less than 20% of the child laborers.[159] Despite these efforts, goals to reduce child labor in West Africa by 70% before 2020 are frustrated by persistent poverty, absence of schools, expansion of cocoa farmland, and increased demand for cocoa.[3][160]
+
+In April 2018, the Cocoa Barometer report stated: "Not a single company or government is anywhere near reaching the sector-wide objective of the elimination of child labor, and not even near their commitments of a 70% reduction of child labor by 2020".[160]
