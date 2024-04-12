@@ -30,7 +30,9 @@ def get_table_data(quiz_str):
     try:
         quiz_dict=json.loads(quiz_str)
         quiz_table_data=[]
-
+        print("I am going to try to print quiz_dict from get_table_data function")
+        print(quiz_dict)
+        print(type(quiz_dict))
         for key,value in quiz_dict.items():
             mcq=value["mcq"]
             options= " | ".join([
